@@ -1,5 +1,11 @@
-FFmpeg README
+InSoundz - FFmpeg README
 =============
+
+This is a fork of FFmpeg with added features that InSoundz LTD. is using and your are all invited to take a look.
+
+## Added features
+* Stats html file is displaying the real playing time in the ffserver.
+
 
 FFmpeg is a collection of libraries and tools to process multimedia content
 such as audio, video, subtitles and related metadata.
